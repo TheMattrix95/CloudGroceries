@@ -1,2 +1,4 @@
 milk 
 eggs
+lucky charms
+pizza
